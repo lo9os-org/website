@@ -1,0 +1,9 @@
+.worktrees/
+node_modules/
+dist/
+.agent/
+.wrangler/
+.env
+.env.*
+.dev.vars
+.DS_Store

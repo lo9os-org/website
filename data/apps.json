@@ -1,0 +1,38 @@
+[
+  {
+    "id": "design-pick",
+    "name": "Design Pick",
+    "url": "https://design-pick.lo9os.org/",
+    "image": "brand-flow.png",
+    "imageWidth": 1536,
+    "imageHeight": 1024,
+    "kind": {
+      "ko": "웹 디자인을 위한 Chrome 확장 프로그램",
+      "en": "A Chrome extension for web design"
+    },
+    "description": {
+      "ko": "웹 요소를 선택하고, 맥락을 내 AI에 전달하고, 바뀐 결과를 확인하세요.",
+      "en": "Pick a web element, hand its context to your own AI, and check what changed."
+    },
+    "cta": {
+      "ko": "제품 소개 보기",
+      "en": "Explore Design Pick"
+    },
+    "release": {
+      "ko": "0.3.2 · Chrome 웹 스토어 심사 중",
+      "en": "0.3.2 · Chrome Web Store review pending"
+    },
+    "availability": {
+      "ko": "Pro 판매는 아직 열리지 않았습니다.",
+      "en": "Pro sales are not open yet."
+    },
+    "imageAlt": {
+      "ko": "요소 선택에서 내 AI에 맥락 전달, 변경 확인으로 이어지는 Design Pick 흐름 일러스트",
+      "en": "An illustration of Design Pick: select an element, hand context to your own AI, and verify changes"
+    },
+    "imageCaption": {
+      "ko": "Design Pick의 선택 · 전달 · 확인 흐름",
+      "en": "Design Pick: select, hand off, verify"
+    }
+  }
+]
