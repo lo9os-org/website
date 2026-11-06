@@ -1,0 +1,22 @@
+[
+  {
+    "file": "brand-flow.png",
+    "source": "Existing public Design Pick product site",
+    "sha256": "57aa38cbc29748e61083f0e66202ba89ab569726d6805cc3822f5b0fc25d0616"
+  },
+  {
+    "file": "01-free-pick.png",
+    "source": "Existing public Design Pick product site",
+    "sha256": "9a49253f4197d4f6926a4c342847b6b2acfa474c64d256cc75645110ccab0d23"
+  },
+  {
+    "file": "04-pro-compare.png",
+    "source": "Existing public Design Pick product site",
+    "sha256": "f5021d5cbb30e818948a814e2523bb7bc12bb3e46514487ed97d866f0ffcf925"
+  },
+  {
+    "file": "favicon.svg",
+    "source": "Existing public Design Pick product site",
+    "sha256": "3f49eed962a404a68b8471a8f3ce6893bfd8fcdd291a89e0c572497631fdfd0d"
+  }
+]
